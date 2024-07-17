@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeConsole/static/css/main.b05d896b.css",
+    "main.js": "/CodeConsole/static/js/main.bfbbed8a.js",
+    "index.html": "/CodeConsole/index.html",
+    "main.b05d896b.css.map": "/CodeConsole/static/css/main.b05d896b.css.map",
+    "main.bfbbed8a.js.map": "/CodeConsole/static/js/main.bfbbed8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05d896b.css",
+    "static/js/main.bfbbed8a.js"
+  ]
+}
